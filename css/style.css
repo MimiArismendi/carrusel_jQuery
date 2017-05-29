@@ -1,0 +1,45 @@
+body{
+    background-image: url(../img/fondo2.png);
+    background-size: cover;   
+} 
+
+
+li{
+    list-style: none;
+     display: inline-block;     
+}
+
+
+.imagenes{
+    border:3px solid darkcyan;  
+}
+
+#imgUno{
+    display: block;
+}
+
+#imgDos, #imgTres, #imgCuatro, #imgCinco{
+    display: none;
+}
+
+
+button{
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    border: 1px solid white;
+    background-color: darkcyan;
+}
+
+.centrar{
+    text-align: center;
+}
+
+h1{
+    font-size: 70px;
+    color: darkcyan;
+    font-family: 'Lobster', cursive;
+    font-style: italic;
+}
+
+
